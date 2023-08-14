@@ -1,0 +1,2 @@
+# AulaGenException
+Aula Generation Exception
